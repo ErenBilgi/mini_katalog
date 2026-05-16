@@ -20,8 +20,8 @@ Flutter ile geliştirilmiş eğitim amaçlı mobil katalog uygulaması.
 ## Kullanılan Flutter Sürümü
 
 ```
-Flutter 3.x (stable)
-Dart 3.x
+Flutter 3.41.9
+Dart 3.11.5
 ```
 
 Sürümünüzü kontrol etmek için:
