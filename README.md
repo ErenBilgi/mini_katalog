@@ -83,16 +83,6 @@ flutter run
 flutter build apk --release
 ```
 
-## Öğrenilen Konular
-
-| Gün | Konu |
-|-----|------|
-| Gün 1 | Flutter kurulumu, Stateless/Stateful widget, proje yapısı |
-| Gün 2 | Dart temelleri, Text/Container/Row/Column, Card, ListTile |
-| Gün 3 | Navigator.push/pop, Route Arguments, MaterialPageRoute |
-| Gün 4 | JSON model sınıfı, fromJson/toJson, ListView.builder, arama |
-| Gün 5 | GridView, ürün detayı, sepet state yönetimi, UI teması |
-
 ## Veri Kaynakları
 
 Bu proje eğitim amaçlıdır. Ürün verileri local JSON simülasyonuyla oluşturulmuştur.
